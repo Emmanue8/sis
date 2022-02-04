@@ -1,0 +1,9 @@
+# TWITTER
+# —————————-
+127.0.0.1 platform.twitter.com
+127.0.0.1 ads.twitter.com
+127.0.0.1 analytics.twitter.com
+127.0.0.1 scribe.twitter.com
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 twittad.com
+127.0.0.1 www.ads-twitter.com 
